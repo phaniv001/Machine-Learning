@@ -1,1 +1,1 @@
-# Machine-Learning practices.
+# Machine-Learning Practices.
